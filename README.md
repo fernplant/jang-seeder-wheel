@@ -1,5 +1,7 @@
 # Parametric Seed Roller
 
+This is an edit from the work of Fordi and Fernplant. Fixted text box placement, changed solid body wheel to sunken text, and added text of each preset to the JSON. The following is from Fordi:
+
 This is a parametric seed roller with default parameters and presets for Jang JP or JPH series rollers.
 
 <img src="https://github.com/Fordi/jang-seeder-wheel/raw/main/Jang_F-12_PLA_Orange.jpg" width="320" alt="Jang F-12 sample print" />
